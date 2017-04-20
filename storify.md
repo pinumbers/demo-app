@@ -26,5 +26,6 @@ Critics
 
 
 
-![persona lily scott](imagefile.jpg)
+![persona lily scott](H:\DePaul SNL\ThinkBlue Coding Academy\lily scott casual player.jpg)
+
 
