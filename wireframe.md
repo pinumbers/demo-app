@@ -10,9 +10,7 @@ Wireframing
 <p>
   Wireframe sketch of game app round.
   <br>
-  <img src="
- 
-
+  <img src="H:\DePaul SNL\ThinkBlue Coding Academy\round1diagram.jpeg"
 </p>	
     <label>Question 1</label>
 <label>
@@ -33,3 +31,5 @@ Wireframing
 </label>
   </body>  
 </html>
+
+ 
