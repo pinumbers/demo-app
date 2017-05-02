@@ -1,0 +1,102 @@
+body {
+   background: rgba(20, 50, 90, .75);
+   margin: 10px;
+   border: orange 40px;  	
+   padding: 20px;
+   border-style: outset;
+}
+
+h1 {
+  color: rgba(50, 10, 70, .55);
+  font-family: Impact;
+  font-size: 144px;
+  text-shadow: 3px 2px #9370D8;
+  padding-top: 10px;
+  padding-bottom: 5px;
+  text-align: center;
+  width: 97%;
+  border: #FF0000 10px; 
+  border-style: groove;
+  border-width: 40px 10px 20px 10px;
+}
+
+img {
+ border: yellow 10px;  
+ text-align: center;
+ width: 98.5%;
+ max-height: 300px;
+ overflow: scroll;
+ border-style: ridge;
+ border-radius: 100%;
+ }
+	
+
+h2 {
+  color: rgba(250, 110, 70, .9);
+  font-family: Impact;
+  font-size: 64px;
+  text-shadow: 3px 2px gold;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 10px;
+  text-align: left;
+  width: 21%;
+  border: purple 10px;  
+  border-style: inset;
+
+}	
+
+p {
+  color: #FFFFFF;
+  font-family: Arial;
+  font-weight: bold;
+  font-size: 48px
+  line-height: 20em;
+  letter-spacing: 10em
+  word-spacing: .1em;
+  text-align: left;
+  width: 90%;
+  border: #708090 10px;
+  border-style: dotted;  
+  padding: 10px;
+}
+
+h3 {
+  color: rgba(1, 280, 280, .9);
+  font-family: Impact;
+  font-size: 32px;
+  font-style: italic;
+  text-transform: uppercase;
+  text-decoration: underline;
+  letter-spacing: 2.5em;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 5px;
+  text-align: left;
+  width: 50%;
+  border: #7FFF00 6px;  
+  border-style: double;
+
+}
+
+a {
+  color: #FF00FF;
+  font-family: Arial;
+  font-size: 18px;
+  letter-spacing: 0.3em;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 5px;
+  text-align: left;
+  width: 50%;
+  border: #FFD700 2px;
+  border-style: dashed;
+  
+
+.section{
+}
+
+.definition{
+}
+
+

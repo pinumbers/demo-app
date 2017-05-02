@@ -1,6 +1,3 @@
-Wireframing
-
-
 <!DOCTYPE html>
 <html>
   <head>
@@ -33,6 +30,5 @@ Wireframing
 </html>
 
 
-![Wireframe sketch of game app round.] (https://drive.google.com/file/d/0B-Vojg2UvNaNNFBobHdTeEFHamM/view?usp=sharing) 
 
  
