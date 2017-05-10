@@ -9,7 +9,7 @@
   </head>
   <body>
     <header title="I'm a Header!">
-      <h1 title="I'm an H1">My Internet Dictionary</h1>
+      <h1 title="I'm an H1"><em>My<em> Internet Dictionary</h1>
       <img title="I'm an img" src="http://www.incrediblethings.com/wp-content/uploads/2012/07/cat-votes-for-himself.jpg">
 	</header>
     <div class="section" title="I'm a Section Div">
@@ -68,22 +68,22 @@
       <div class="definition">
         <h3>Record</h3>
         <p>A record contains all the information about a person or an item.</p>
-        <a href="http://www.classroommultimedia.com/interactive/Databases/Databases%20FINAL/databases.html">Link to more info</a>
+        <a href="http://www.classroommultimedia.com/interactive/Databases/Databases%20FINAL/databases.html">Link to more tutorial</a>
       </div>
       <div class="definition">
         <h3>Query</h3>
         <p>In order to create a query you need to use search criteria.</p>
-        <a href="http://www.classroommultimedia.com/interactive/Databases/Databases%20FINAL/databases.html">Link to more info</a>
+        <a href="http://www.classroommultimedia.com/interactive/Databases/Databases%20FINAL/databases.html">Link to more tutorial</a>
       </div>
       <div class="definition">
         <h3>Table</h3>
         <p>A is how databases store information.</p>
-        <a href="http://www.classroommultimedia.com/interactive/Databases/Databases%20FINAL/databases.html">Link to more info</a>
+        <a href="http://www.classroommultimedia.com/interactive/Databases/Databases%20FINAL/databases.html">Link to more tutorial</a>
       </div>
       <div class="definition">
         <h3>Field</h3>
         <p>Each individual piece of information in a record is known as a field.</p>
-        <a href="http://www.classroommultimedia.com/interactive/Databases/Databases%20FINAL/databases.html">Link to more info</a>
+        <a href="http://www.classroommultimedia.com/interactive/Databases/Databases%20FINAL/databases.html">Link to more tutorial</a>
       </div>
     </div>
     <footer>
