@@ -29,6 +29,11 @@
   </body>  
 </html>
 
+prize: string
+list of questions: string, array 
+list of potential answers: string, array, boolean
+number of questions. questions numbered: integers
+
 
 
  
