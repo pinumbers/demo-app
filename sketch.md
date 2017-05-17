@@ -1,3 +1,7 @@
+Sketch
+
+## Sketch
+
 <b>String: One of the most widely used data types is a string. A string consists of one or more characters, which can include letters, numbers, or other types of characters. You can think of a string as plain text.
 A string represents alphanumeric data. This means that a string can contain many different characters, but they are all considered as if they were text, even if the characters are numbers. A string can also contain spaces. This presents a bit of an issue. How are you going to distinguish between the value of a string and the actual code of the program? The solution is to mark the beginning and end of a string with a special character, typically a quote. For example, the following code is used to print text to the screen:
 print 'Hello World!'
