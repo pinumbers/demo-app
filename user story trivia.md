@@ -16,9 +16,13 @@ There should be secure payment options
 I like to know my status (against myseld and against other players)
 There should be multiple platforms to play (web and mobile options)
  
-### Given -> A tivia user will choose a game by topic or by prize
-### Given -> A trivia user needs to have an account set up.
-### When -> Whenever I want to play, 24x7
-### Then -> I can play and see my results/status. 
+### Given 
+-> A tivia user will choose a game by topic or by prize
+### Given 
+-> A trivia user needs to have an account set up.
+### When 
+-> Whenever I want to play, 24x7
+### Then 
+-> I can play and see my results/status. 
 
 
